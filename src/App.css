@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.Photo{
+  width:60px ;
+}
+.disp{
+  display:flex;
+  justify-content: center;
+  column-gap: 8px;
+}
